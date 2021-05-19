@@ -12,7 +12,7 @@
 ### ABOUT
 <!-- Add link to your picture -->
 
-![alt text](https://raw.githubusercontent.com/Yonggc/GekChin/main/IMG_2417-pp-c.jpg)
+![alt text](https://raw.githubusercontent.com/Yonggc/GekChin/main/IMG_2417-pp-c%20-%20resize%20for%20Github.jpg)
 
 <!-- Add your details -->
 
