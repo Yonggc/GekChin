@@ -73,9 +73,9 @@ Rapid & Immersive Skill Enhancement, Business & Data Analytics
 
 ##### ST Engineering Electronics Ltd, Singapore
 
-Agile Product Manager, Video Analytics Platform (2018 to 2020)
+Agile Product Manager, Video Analytics Platform (2018 to 2020) | 
 
-Department Manager, Smart Digital Platform, Mobility Business Unit (2000-2019)
+Department Manager, Smart Digital Platform, Mobility Business Unit (2000-2019) | 
 
 Technical Manager/ Principal/ Senior/ Software Engineer, Product Development Department (early career progression)
 
@@ -122,14 +122,14 @@ Regression is a supervised learning technique which helps in finding the correla
 ## FEATURED
 <!-- Add your details -->
 ##### Certifications
-Project Management Professional (PMP)
-Advanced / Certified Scrum Master (A-CSM, CSM)
-Certified Scrum Product Owner (CSPO)
-ICAgile Certified Professional Agile Coaching
-The Human Factors International Certified Usability Analyst (HFI CUA)
-ITIL-4 Foundation Certificate in IT Service Management
-Certified Data Analytics (R) Specialist by SMU
-Advanced Certificate in Machine Learning in R Programming by SMU
+Project Management Professional (PMP) | 
+Advanced / Certified Scrum Master (A-CSM, CSM) | 
+Certified Scrum Product Owner (CSPO) | 
+ICAgile Certified Professional Agile Coaching | 
+The Human Factors International Certified Usability Analyst (HFI CUA) | 
+ITIL-4 Foundation Certificate in IT Service Management | 
+Certified Data Analytics (R) Specialist by SMU | 
+Advanced Certificate in Machine Learning in R Programming by SMU | 
 Certified Information Systems Auditor (CISA) 
 
 ##### Achievements
