@@ -52,16 +52,16 @@ Certified Project Management Professional.
 Appointed with management leadership, responsible for leading project managers and engineers overseeing the Smart Platform Department accountable for devleoping new, innovative IT-enabled business products, solutions, RFI/RFP, tender bidding, implementation and delivery for projects.
 
 ##### Business Data Analytics & Machine Learning Expertise
-•	Data Science Tools using R and Python
-•	Statistical Inference, Exploratory Data Analysis, Regression Analysis, Feature Engineering
-•	Supervised & Unsupervised Machine Learning
-•	Web scrapping, Text Mining, Semantic Network Analysis, Topic Modelling
-•	Microsoft Excel data model, Pivot Tables
-•	Microsoft Excel data model, Pivot Tables
-•	Power BI Data Analysis & Dashboard
-•	Tableau Data Visualization
-•	Machine Learning Pipeline on AWS Cloud
-•	SQL
+Data Science Tools using R and Python | 
+Statistical Inference, Exploratory Data Analysis, Regression Analysis, Feature Engineering |
+Supervised & Unsupervised Machine Learning |
+Web scrapping, Text Mining, Semantic Network Analysis, Topic Modelling |
+Microsoft Excel data model, Pivot Tables |
+Microsoft Excel data model, Pivot Tables |
+Power BI Data Analysis & Dashboard |
+Tableau Data Visualization |
+Machine Learning Pipeline on AWS Cloud |
+SQL
 
 <!-- EXPERIENCE Section Ends -->
 
@@ -123,7 +123,7 @@ Regression is a supervised learning technique which helps in finding the correla
 <!-- Add your details -->
 ##### Certifications
 Project Management Professional (PMP) | 
-Advanced / Certified Scrum Master (A-CSM, CSM) | 
+Advanced Certified Scrum Master (A-CSM, CSM) | 
 Certified Scrum Product Owner (CSPO) | 
 ICAgile Certified Professional Agile Coaching | 
 The Human Factors International Certified Usability Analyst (HFI CUA) | 
