@@ -72,9 +72,12 @@ Appointed with management leadership, responsible for leading project managers a
 Rapid & Immersive Skill Enhancement, Business & Data Analytics 
 
 ##### ST Engineering Electronics Ltd, Singapore
-•	Agile Product Manager, Video Analytics Platform (2018 to 2020)
-•	Department Manager, Smart Digital Platform, Mobility Business Unit (2000-2019)
-•	Technical Manager/ Principal/ Senior/ Software Engineer, Product Development Department (early career progression)
+
+Agile Product Manager, Video Analytics Platform (2018 to 2020)
+
+Department Manager, Smart Digital Platform, Mobility Business Unit (2000-2019)
+
+Technical Manager/ Principal/ Senior/ Software Engineer, Product Development Department (early career progression)
 
 
 <!-- EXPERIENCE Section Ends -->
