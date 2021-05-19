@@ -45,9 +45,11 @@ Working on various analytics based cases that facilitates clients for next-gener
 <!-- EDUCATION Section Starts -->
 ### EDUCATION
 <!-- Add your details -->
-##### LNCT Bhopal
-Engineering Graduate 2010-14, First Division
+##### Nanyang Technological University
+Electrical & Electronic Engineering Graduate, Honours
 
+##### Singapore Management University
+Advanced Diploma in Data Analytics & Machine Learning using R & Python
 <!-- EDUCATION Section Ends -->
 
 <!-- PROJECTS Section Starts -->
