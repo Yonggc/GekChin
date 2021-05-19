@@ -28,17 +28,54 @@ I am Gek Chin, a seasoned Agile Product Manager and IT Project Manager with more
 
 <!-- ABOUT Section Ends -->
 
+<!-- AREAS OF EXPERTISE & KEY SKILLS Section Starts -->
+### AREAS OF EXPERTISE & KEY SKILLS
+<!-- Add your details -->
+##### Agile Product Development Management
+
+Initiated product R&D, set product vision, collaborated with diverse stakeholders, performed market research & competitor analysis, chartered product roadmap, led UI/UX analysis & design, oversaw the product development process using Agile methodology & Scrum framework, managed product release, designed marketing collaterals, devised new business plan, Go-To-Market strategy, launched of core and future products, pre-sales and tender bidding.
+
+Responsible for artifacts such as Product Vision, Product Backlog, User Story, Sprint Backlog, Product Increment, Release Plan, Sprint Burndown Chart, Velocity, Business Model Canvas.
+
+Appointed as a Principal, Joint R&D Collaboration with Nanyang Technological University for the Enhanced Deep Learning-based Detector & Tracker for Heavy Traffic analytics.
+
+Advanced Certified Scrum Master, Certified Scrum Product Owner, Certified Agile Coach, ICAgile Certified Professional Agile Coaching, The Human Factors International Certified Usability Analyst.
+
+##### IT Project Management
+
+Extensive and hands-on program/project management experience for cross-functional large scale project development and execution. Continually and 100% successfully delivered revenue-generating, cutting-edge IT projects for many national initiative projects.
+
+Certified Project Management Professional.
+
+##### Operational Excellence & Leadership
+
+Appointed with management leadership, responsible for leading project managers and engineers overseeing the Smart Platform Department accountable for devleoping new, innovative IT-enabled business products, solutions, RFI/RFP, tender bidding, implementation and delivery for projects.
+
+##### Business Data Analytics & Machine Learning Expertise
+•	Data Science Tools using R and Python
+•	Statistical Inference, Exploratory Data Analysis, Regression Analysis, Feature Engineering
+•	Supervised & Unsupervised Machine Learning
+•	Web scrapping, Text Mining, Semantic Network Analysis, Topic Modelling
+•	Microsoft Excel data model, Pivot Tables
+•	Microsoft Excel data model, Pivot Tables
+•	Power BI Data Analysis & Dashboard
+•	Tableau Data Visualization
+•	Machine Learning Pipeline on AWS Cloud
+•	SQL
+
+<!-- EXPERIENCE Section Ends -->
+
 <!-- EXPERIENCE Section Starts -->
 ### EXPERIENCE
 <!-- Add your details -->
-##### BOSTON CONSULTING GROUP
-SENIOR ANALYST<br>
-June-2019 to Present: 1 year 10 Months
+##### DigitalBCG (Boston Consulting Group) Academy, Singapore (2021 to Present)
+Rapid & Immersive Skill Enhancement, Business & Data Analytics 
 
-ROLE: Data Scientist/ Machine Learning Engineer/ AI Consultant
-UNIT: BCG GAMMA
+##### ST Engineering Electronics Ltd, Singapore
+Agile Product Manager, Video Analytics Platform (2018 to 2020)
+Department Manager, Smart Digital Platform, Mobility Business Unit (2000-2019)
+Technical Manager/ Principal/ Senior/ Software Engineer, Product Development Department (early career progression)
 
-Working on various analytics based cases that facilitates clients for next-generation AI strategy. Involved in asset building while applying scientific algorithms on a huge amount of text, time-series data, images and other forms of unstructured data.
 
 <!-- EXPERIENCE Section Ends -->
 
