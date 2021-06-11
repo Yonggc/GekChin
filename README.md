@@ -22,6 +22,7 @@ I am Gek Chin, a seasoned Agile Product Manager and IT Project Manager with more
 
 <!-- Add link to the sections -->
 
+[Areas of Expertise](#expertise) <br>
 [Professional Experience](#experience) <br>
 [Education](#education) <br>
 [Projects](#projects) <br>
@@ -29,7 +30,7 @@ I am Gek Chin, a seasoned Agile Product Manager and IT Project Manager with more
 
 <!-- ABOUT Section Ends -->
 
-<!-- EXPERIENCE Section Starts -->
+<!-- EXPERTISE Section Starts -->
 ### AREAS OF EXPERTISE
 <!-- Add your details -->
 ##### Agile Product Development Management
@@ -65,7 +66,7 @@ Machine Learning Pipeline on AWS Cloud |
 Data Engineering on Google Cloud Platform | 
 SQL, PostgresSQL, Azure Data Studio
 
-<!-- EXPERIENCE Section Ends -->
+<!-- EXPERTISE Section Ends -->
 
 <!-- EXPERIENCE Section Starts -->
 ### PROFESSIONAL EXPERIENCE
