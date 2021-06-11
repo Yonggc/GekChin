@@ -54,14 +54,14 @@ Appointed with management leadership, responsible for leading project managers a
 ##### Business Data Analytics & Machine Learning Expertise
 
 Data Science Tools using R and Python | 
-Statistical Inference, Exploratory Data Analysis, Regression Analysis, Feature Engineering |
-Supervised & Unsupervised Machine Learning |
-Web scrapping, Text Mining, Semantic Network Analysis, Topic Modelling |
-Microsoft Excel data model, Pivot Tables, Power Query |
-Power BI Data Analysis, Report & Dashboard |
-Tableau Data Visualization |
-Machine Learning Pipeline on AWS Cloud |
-Data Engineering on Google Cloud Platform |
+Statistical Inference, Exploratory Data Analysis, Regression Analysis, Feature Engineering | 
+Supervised & Unsupervised Machine Learning | 
+Web scrapping, Text Mining, Semantic Network Analysis, Topic Modelling | 
+Microsoft Excel data model, Pivot Tables, Power Query | 
+Power BI Data Analysis, Report & Dashboard | 
+Tableau Data Visualization | 
+Machine Learning Pipeline on AWS Cloud | 
+Data Engineering on Google Cloud Platform | 
 SQL, PostgresSQL, Azure Data Studio
 
 <!-- EXPERIENCE Section Ends -->
@@ -129,12 +129,16 @@ Certified Scrum Product Owner (CSPO) |
 ICAgile Certified Professional Agile Coaching | 
 The Human Factors International Certified Usability Analyst (HFI CUA) | 
 ITIL-4 Foundation Certificate in IT Service Management | 
+Advanced Diploma in Data Analytics & Machine Learning by SMU | 
 Certified Data Analytics (R) Specialist by SMU | 
 Advanced Certificate in Machine Learning in R Programming by SMU | 
+Professional Certificate in Machine Learning (Python) by SMU | 
 Certified Information Systems Auditor (CISA) 
 
 ##### Achievements
 Institute of Engineering Singapore Prestigious Engineering Achievement Award 2010
 Two times 1st Prize Winner of ST Engineering Innovation Award Competitions
+BCG RISE Top 2 Digital Essentials Group Project
+BCG RISE Top 2 Business Essentials Group Project
 
 <!-- FEATURED Section Ends -->
