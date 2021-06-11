@@ -29,7 +29,7 @@ I am Gek Chin, a seasoned Agile Product Manager and IT Project Manager with more
 <!-- ABOUT Section Ends -->
 
 <!-- EXPERIENCE Section Starts -->
-### EXPERIENCE
+### AREAS OF EXPERTISE
 <!-- Add your details -->
 ##### Agile Product Development Management
 
