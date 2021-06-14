@@ -101,17 +101,17 @@ Advanced Diploma in Data Analytics & Machine Learning
 ### PROJECTS
 <!-- Add your details -->
 
-[Classification based projects](#classification-based-projects) <br>
+[Data Analysis PowerBI projects](#classification-based-projects) <br>
 [Regression based projects](#regression-based-projects) <br>
 
 <!-- Add your details -->
 
-#### Classification based projects
+#### Data Analysis PowerBI projects
 ![alt text](https://raw.githubusercontent.com/krvishwesh54/Kumar-Vishwesh/main/images/Classification.png)
 
 In machine learning, classification refers to a predictive modeling problem where a class label is predicted for a given example of input data.
 
-[Click here to view codebase](https://github.com/krvishwesh54/DataScience_DeepLearning_MachineLearning/tree/master/Classification)
+[Click here to view codebase](https://github.com/Yonggc/Data_Analysis_PowerBI.git)
 
 #### Regression based projects
 ![alt text](https://raw.githubusercontent.com/krvishwesh54/Kumar-Vishwesh/main/images/Regression.jpg)
