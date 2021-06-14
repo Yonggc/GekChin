@@ -63,7 +63,8 @@ Microsoft Excel data model, Pivot Tables, Power Query |
 Power BI Data Analysis, Report & Dashboard | 
 Tableau Data Visualization | 
 Machine Learning Pipeline on AWS Cloud | 
-Data Engineering on Google Cloud Platform | 
+Data Engineering on Google Cloud Platform |
+pySpark, Databricks | 
 SQL, PostgresSQL, Azure Data Studio
 
 <!-- EXPERTISE Section Ends -->
