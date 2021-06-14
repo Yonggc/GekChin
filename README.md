@@ -108,7 +108,7 @@ Advanced Diploma in Data Analytics & Machine Learning
 
 #### Data Analysis PowerBI projects
 ![alt text](https://github.com/Yonggc/Data_Analysis_PowerBI/[Yong Gek Chin-Wave01-BDA01]Mini Project 1 Solution V_Final.pdf)
-<a href="https://github.com/Yonggc/Data_Analysis_PowerBI/[Yong Gek Chin-Wave01-BDA01]Mini Project 1 Solution V_Final.pdf" class="image fit">" type="application/pdf"/>
+<a href="https://github.com/Yonggc/Data_Analysis_PowerBI/[Yong Gek Chin-Wave01-BDA01 ]Mini Project 1 Solution V_Final.pdf" class="image fit">" type="application/pdf"/>
 
 
 In machine learning, classification refers to a predictive modeling problem where a class label is predicted for a given example of input data.
